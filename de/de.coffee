@@ -66,7 +66,7 @@ i18n.de =
   "Subject": "Betreff"
 
   # Conversation view
-  "raw source": "Quelle"
+  "raw source": "Quelltext"
   "on": "auf"
 
   "show quoted text line": "<%= count %> eingerückte Zeile zeigen"
@@ -74,7 +74,7 @@ i18n.de =
   "show quoted text lines": "<%= count %> eingerückte Zeilen zeigen"
   "hide quoted text lines": "<%= count %> eingerückte Zeilen ausblenden"
 
-  "empty message": "Diese Nachricht ist leer oder konnte nicht gelesen werden. Um die originale Nachricht anzuzeigen können Sie den \"Quelle\"-Link aufrufen."
+  "empty message": "Diese Nachricht ist leer oder konnte nicht gelesen werden. Um die originale Nachricht anzuzeigen können Sie den \"Quelltext\"-Link aufrufen."
 
   # triage
   "Praise": "Lob"
