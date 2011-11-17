@@ -1,0 +1,40 @@
+en:
+  # sign in layout
+  learn about Charm: "saber mais sobre o Charm"
+  get help: "pedir ajuda"
+  terms/privacy: "termos/privacidade"
+
+  # sign in
+  Sign in: "Entrar"
+  Email: "Email"
+  Password: "Password"
+  Keep me signed in: "Manter-me ligado (a não ser que termine a sessão)"
+  Sign in to: "Entrar para %{name}"
+
+  password recovery: "recuperar a password"
+  back to sign in: "voltar ao ecrã de inicio de sessão"
+  
+  
+  Lost your password? Enter your email here and we'll send you instructions on how to enter a new one: "Perdeu a sua password? Introduza o seu email e enviaremos as instruções para escolher uma nova:"
+  Recover my password: "Recuperar a minha password"
+  could not find this email: "Não conseguimos encontrar este email, typo?"
+
+  Your email or password seems to be wrong: "Parece que o seu email ou password está errado."
+  We've sent you instructions on how to reset your password: "Acabámos de enviar as instruções para recuperar a sua password."
+
+  # sign out
+  You have been signed out: "A sua sessão foi terminada"
+
+  # application layout
+  help: "ajuda"
+  Process: "Processar"
+  Work: "Trabalho"
+  Cases: "Casos"
+  Archive: "Arquivos"
+  Search: "Pesquisa"
+
+  "Personal Settings": "Definições pessoais"
+  "Help & Tutorials": "Ajuda & Tutoriais"
+  "Rewatch Intro": "Rever introdução"
+  "Manage Team & Account": "Gerir Equipa e Conta"
+  "Sign out": "Terminar sessão"
