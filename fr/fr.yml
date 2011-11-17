@@ -8,7 +8,7 @@ en:
   Sign in: "Connexion"
   Email: "E-mail"
   Password: "Mot de passe"
-  Keep me signed in: "Me laisser connecté(e) (sauf si je me déconnecte)"
+  Keep me signed in: "Conserver ma connexion active (sauf si je me déconnecte)"
   Sign in to: "Connexion à %{name}"
 
   password recovery: "récupérer le mot de passe"
@@ -28,7 +28,7 @@ en:
   help: "aide"
   Process: "Processus"
   Work: "Travail"
-  Cases: "Incidents"
+  Cases: "Cas"
   Archive: "Archive"
   Search: "Recherche"
 
