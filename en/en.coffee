@@ -39,7 +39,7 @@ i18n.en =
   "more than a year ago": "more than a year ago"
 
   "within one minute": "within one minute"
-  "one minute later": "one minute laterr"
+  "one minute later": "one minute later"
   "X minutes later": "<%= minutes %> minutes later"
   "one hour later": "one hour later"
   "X hours later": "<%= hours %> hours later"
@@ -87,7 +87,7 @@ i18n.en =
   "Enter a reply to send to this customer": "Enter a reply to send to this customer"
   "Unassigned": "Unassigned"
 
-  "X will be assigned": "Message will be asssigned to <%= user %>."
+  "X will be assigned": "Message will be assigned to <%= user %>."
   "assign": "assign"
   "User will be unassigned": "User will be unassigned."
   "unassign": "unassign"

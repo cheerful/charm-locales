@@ -1,0 +1,39 @@
+en:
+  # sign in layout
+  learn about Charm: "découvrez Charm"
+  get help: "obtenir de l’aide"
+  terms/privacy: "Conditions Générales d’Utilisation (en anglais)"
+
+  # sign in
+  Sign in: "Connexion"
+  Email: "E-mail"
+  Password: "Mot de passe"
+  Keep me signed in: "Me laisser connecté(e) (sauf si je me déconnecte)"
+  Sign in to: "Connexion à %{name}"
+
+  password recovery: "récupérer le mot de passe"
+  back to sign in: "retour à la connexion"
+
+  Lost your password? Enter your email here and we'll send you instructions on how to enter a new one: "Perdu votre mot de passe ? Entrez votre e-mail ici et nous vous enverrons des instructions afin d’en saisir un nouveau :"
+  Recover my password: "Récupérer mon mot de passe"
+  could not find this email: "Cette adresse est introuvable ; faute de frappe ?"
+
+  Your email or password seems to be wrong: "Votre e-mail ou mot de passe semble incorrect."
+  We've sent you instructions on how to reset your password: "Nous vous avons envoyé des instructions afin de réinitialiser votre mot de passe."
+
+  # sign out
+  You have been signed out: "Vous n’êtes plus connecté(e)"
+
+  # application layout
+  help: "aide"
+  Process: "Processus"
+  Work: "Travail"
+  Cases: "Incidents"
+  Archive: "Archive"
+  Search: "Recherche"
+
+  "Personal Settings": "Paramètres Personnels"
+  "Help & Tutorials": "Aide & Didacticiels"
+  "Rewatch Intro": "Revoir l’Intro"
+  "Manage Team & Account": "Gérer l’Équipe et le Compte"
+  "Sign out": "Déconnexion"

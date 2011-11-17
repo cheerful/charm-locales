@@ -1,4 +1,4 @@
-I18n, G10n, L18n for [Charm](http://charmhq.com/)—you name it.
+I18n, G11n, L10n for [Charm](http://charmhq.com/)—you name it.
 
 This is in beta—not everything is translated yet, but it's getting there!
 
