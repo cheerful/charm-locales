@@ -82,7 +82,7 @@ i18n.fr =
   "ignore & archive": "ignorer & archiver"
   "unarchive": "désarchiver"
   "options": "options"
-  "Select or create a case": "Sélectionnez ou créez un incident"
+  "Select or create a case": "Sélectionnez ou créez un cas"
   "actionate": "agir"
   "Enter a reply to send to this customer": "Entrez une réponse à envoyer à ce client"
   "Unassigned": "Non affecté"
@@ -95,10 +95,10 @@ i18n.fr =
   "categorize": "catégoriser"
   "You will send a reply and archive the message": "Vous enverrez une réponse et archiverez le message."
   "reply + archive": "répondre + archiver"
-  "Conversation will be assigned to case X": "La conversation sera associée à l’incident « <%= kase %> »."
-  "assign to case": "associer à l’incident"
-  "A case X will be created": "Un nouvel incident « <%= kase %> » sera créé."
-  "create case": "créer un incident"
+  "Conversation will be assigned to case X": "La conversation sera associée au cas « <%= kase %> »."
+  "assign to case": "associer au cas"
+  "A case X will be created": "Un nouveau cas « <%= kase %> » sera créé."
+  "create case": "créer un cas"
 
   # personal settings
   "Settings": "Paramètres"
@@ -135,11 +135,11 @@ i18n.fr =
 
   # cases
   "enter a new todo": "Entrer une nouvelle tâche"
-  "Enter a case title": "Entrer un titre d’incident"
+  "Enter a case title": "Entrer un titre de cas"
   "Enter a description (optional)": "Entrez une description (optionnelle)"  
   
-  "Case": "Incident"
-  "Cases": "Incidents"
+  "Case": "Cas"
+  "Cases": "Cas"
   "All": "Tous"
   "case:open": "Ouverts"
   "case:closed": "Fermés"
@@ -147,10 +147,10 @@ i18n.fr =
   "Newest": "Plus récents"
   "Most messages": "Plus de messages"
   "Title": "Titre"
-  "Case Types": "Types d’Incidents"
+  "Case Types": "Types de Cas"
   "Team Involved": "Équipe impliquée"
 
-  "Create case": "Créer un incident"
+  "Create case": "Créer un cas"
 
   "Team Conversation": "Conversation d’équipe"
   "Team Conversations": "Conversations d’équipe"
