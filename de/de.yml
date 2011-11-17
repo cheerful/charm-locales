@@ -1,0 +1,40 @@
+de:
+  # sign in layout
+  learn about Charm: "Über Charm (Englisch)"
+  get help: "Hilfe (Englisch)"
+  terms/privacy: "Benutzungsbedingungen (Englisch)"
+
+  # sign in
+  Sign in: "Login"
+  Email: "E-Mail"
+  Password: "Passwort"
+  Keep me signed in: "Permanent eingeloggt bleiben (bis ich mich abmelde)"
+  Sign in to: "Auf %{name} einloggen"
+
+  password recovery: "Passwort vergessen?"
+  back to sign in: "Zurück zum Login"
+
+  Lost your password? Enter your email here and we'll send you instructions on how to enter a new one: "Passwort vergessen? Einfach hier die E-Mail-Addresse ausfüllen, wir schicken einen Link um ein neues Passwort festzulegen:"
+  Recover my password: "Neues Passwort festlegen"
+  could not find this email: "Unbekannte E-Mail-Addresse—Tippfehler?"
+
+  Your email or password seems to be wrong: "Unbekannte E-Mail-Addresse oder Passwort."
+  We've sent you instructions on how to reset your password: "test"
+
+  # sign out
+  You have been signed out: "Sie sind jetzt abgemeldet."
+
+
+  # application layout
+  help: "Hilfe"
+  Process: "Eingang"
+  Work: "Todo-Liste"
+  Cases: "Tickets"
+  Archive: "Archiv"
+  Search: "Suche"
+
+  "Personal Settings": "Persönliche Einstellungen"
+  "Help & Tutorials": "Hilfe (Englisch)"
+  "Rewatch Intro": "Intro erneut anzeigen"
+  "Manage Team & Account": "Administration & Setup"
+  "Sign out": "Abmelden"

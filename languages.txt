@@ -1,0 +1,4 @@
+# list of supported languages
+en:    English
+de:    Deutsch
+de-AT: Deutsch (Österreich)

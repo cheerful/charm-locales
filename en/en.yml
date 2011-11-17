@@ -1,0 +1,39 @@
+en:
+  # sign in layout
+  learn about Charm: "learn about Charm"
+  get help: "get help"
+  terms/privacy: "terms/privacy"
+
+  # sign in
+  Sign in: "Sign in"
+  Email: "Email"
+  Password: "Password"
+  Keep me signed in: "Always keep me signed in (unless I sign out)"
+  Sign in to: "Sign in to %{name}"
+
+  password recovery: "password recovery"
+  back to sign in: "back to sign in"
+
+  Lost your password? Enter your email here and we'll send you instructions on how to enter a new one: "Lost your password? Enter your email here and we'll send you instructions on how to enter a new one:"
+  Recover my password: "Recover my password"
+  could not find this email: "Couldn't find this email, typo?"
+
+  Your email or password seems to be wrong: "Your email or password seems to be wrong."
+  We've sent you instructions on how to reset your password: "We've sent you instructions on how to reset your password."
+
+  # sign out
+  You have been signed out: "You have been signed out"
+
+  # application layout
+  help: "help"
+  Process: "Process"
+  Work: "Work"
+  Cases: "Cases"
+  Archive: "Archive"
+  Search: "Search"
+
+  "Personal Settings": "Personal Settings"
+  "Help & Tutorials": "Help & Tutorials"
+  "Rewatch Intro": "Rewatch Intro"
+  "Manage Team & Account": "Manage Team & Account"
+  "Sign out": "Sign out"
