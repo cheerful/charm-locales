@@ -1,18 +1,21 @@
 i18n.en =
   # basic UI strings
-  "open": "open"
-  "close": "close"
+  "open": "open"  # adjective
+  "close": "close" # verb
+  "closed": "closed" # adjective
   
   "Loading...": "Loading..."
-  "Open": "Open"
-  "Close": "Close"
-  "Cancel": "Cancel"
-  "Edit": "Edit"
-  "Pin": "Pin"
-  "Unpin": "Unpin"
-  "Poke!": "Poke!"
+  "Open": "Open" # verb
+  "Reopen": "Reopen" # verb
+  "Close": "Close" # verb
+  "Cancel": "Cancel" # verb
+  "Cancel Edit": "Cancel Edit" #verb
+  "Edit": "Edit" # verb
+  "Pin": "Pin" # verb
+  "Unpin": "Unpin" # verb
+  "Poke!": "Poke!" # verb
   "no assignee": "no assignee"
-  "Save": "Save"
+  "Save": "Save" # verb
 
   "offline": "offline"  
 
@@ -53,8 +56,8 @@ i18n.en =
   "Overview": "Overview"
 
   # Messages
-  "reply": "reply"
-  "archived": "archived"
+  "reply": "reply" # noun
+  "archived": "archived" # adjective
 
   # Process view
   "Most recent": "Most recent"
@@ -64,7 +67,7 @@ i18n.en =
 
   # Conversation view
   "raw source": "raw source"
-  "on": "on"
+  "on": "on" # Safari _on_ OS X
 
   "show quoted text line": "show <%= count %> quoted line"
   "hide quoted text line": "hide <%= count %> quoted line"
@@ -74,37 +77,37 @@ i18n.en =
   "empty message": "This message appears to be empty. You can use \"raw source\" above to inspect the original, unparsed email. Please do let us know about emails that are not correctly parsed and shown—use the feedback button and include as much information as you can!"
 
   # triage
-  "Praise": "Praise"
-  "Bug": "Bug"
-  "Feature": "Feature"
-  "Question": "Question"
+  "Praise": "Praise" # noun
+  "Bug": "Bug" # noun
+  "Feature": "Feature" # noun
+  "Question": "Question" # noun
   
-  "ignore & archive": "ignore & archive"
-  "unarchive": "unarchive"
+  "ignore & archive": "ignore & archive" # verb
+  "unarchive": "unarchive" # verb
   "options": "options"
   "Select or create a case": "Select or create a case"
-  "actionate": "actionate"
+  "actionate": "actionate" # verb
   "Enter a reply to send to this customer": "Enter a reply to send to this customer"
   "Unassigned": "Unassigned"
 
   "X will be assigned": "Message will be assigned to <%= user %>."
-  "assign": "assign"
+  "assign": "assign" # verb
   "User will be unassigned": "User will be unassigned."
-  "unassign": "unassign"
+  "unassign": "unassign" # verb
   "Category will be changed": "Category will be changed."
-  "categorize": "categorize"
+  "categorize": "categorize" # verb
   "You will send a reply and archive the message": "You will send a reply and archive the message."
-  "reply + archive": "reply + archive"
+  "reply + archive": "reply + archive" # verb
   "Conversation will be assigned to case X": "Conversation will be assigned to case “<%= kase %>”."
-  "assign to case": "assign to case"
+  "assign to case": "assign to case" # verb
   "A case X will be created": "A new case “<%= kase %>” will be created."
-  "create case": "create case"
+  "create case": "create case" # verb
 
   # personal settings
   "Settings": "Settings"
   "Password": "Password"
 
-  "save & close": "save & close"
+  "save & close": "save & close" # verb
   
   "Personal Data": "Personal Data"
   "First name": "First name"
@@ -134,15 +137,15 @@ i18n.en =
   "Your Todos": "Your Todos"
 
   # cases
-  "enter a new todo": "enter a new todo"
-  "Enter a case title": "Enter a case title"
-  "Enter a description (optional)": "Enter a description (optional)"  
+  "enter a new todo": "enter a new todo" # placeholder
+  "Enter a case title": "Enter a case title" # placeholder
+  "Enter a description (optional)": "Enter a description (optional)" # placeholder
   
   "Case": "Case"
   "Cases": "Cases"
-  "All": "All"
-  "case:open": "Open"
-  "case:closed": "Closed"
+  "All": "All" # filter: All cases
+  "case:open": "Open" # filter: Open cases
+  "case:closed": "Closed" # filter: Closed cases
   "Sort By": "Sort By"
   "Newest": "Newest"
   "Most messages": "Most messages"
@@ -150,17 +153,17 @@ i18n.en =
   "Case Types": "Case Types"
   "Team Involved": "Team Involved"
 
-  "Create case": "Create case"
+  "Create case": "Create case" # save button
 
   "Team Conversation": "Team Conversation"
   "Team Conversations": "Team Conversations"
-  "Add a comment": "Add a comment"  
-  "Add Note": "Add Note"
+  "Add a comment": "Add a comment" # placeholder
+  "Add Note": "Add Note" # placeholder
   "Actions Required": "Actions Required"
   "Customers Affected": "Customers Affected"
-  "Reply to All": "Reply to All"
-  "Enter a reply to go to all customers": "Enter a reply to go to all customers"
-  "Send reply to all": "Send reply to all"
+  "Reply to All": "Reply to All" # button (shows/hides form)
+  "Enter a reply to go to all customers": "Enter a reply to go to all customers" # placeholder
+  "Send reply to all": "Send reply to all" # button
   "Attach a file:": "Attach a file:"
 
   "Message": "Message"

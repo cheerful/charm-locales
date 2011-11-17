@@ -2,11 +2,14 @@ i18n.de =
   # basic UI strings
   "open": "offen"
   "close": "geschlossen"
+  "closed": "geschlossen"
   
   "Loading...": "Laden..."
   "Open": "Öffnen"
+  "Reopen": "Wiedereröffnen" # verb
   "Close": "Schließen"
   "Cancel": "Abbrechen"
+  "Cancel Edit": "Editieren abbrechen" #verb
   "Edit": "Bearbeiten"
   "Pin": "Pinnen"
   "Unpin": "Entpinnen"
@@ -82,7 +85,7 @@ i18n.de =
   "ignore & archive": "ignorieren & archivieren"
   "unarchive": "dearchivieren"  
   "options": "Optionen"
-  "Select or create a case": "Ticket auswählen oder anlegen"
+  "Select or create a case": "Fall auswählen oder anlegen"
   "actionate": "antworten"
   "Enter a reply to send to this customer": "Hier eine Antwort an diesen Kunden schreiben"
   "Unassigned": "Nicht zugewiesen"
@@ -95,10 +98,10 @@ i18n.de =
   "categorize": "kategorisieren"
   "You will send a reply and archive the message": "Antwort wird gesendet und Nachricht archiviert."
   "reply + archive": "antworten + archivieren"
-  "Conversation will be assigned to case X": "Nachricht wird zu Ticket „<%= kase %>“ zugeordnet."
-  "assign to case": "an Ticket zuordnen"
-  "A case X will be created": "Neues Ticket „<%= kase %>“ wird angelegt."
-  "create case": "Ticket anlegen"
+  "Conversation will be assigned to case X": "Nachricht wird zu Fall „<%= kase %>“ zugeordnet."
+  "assign to case": "an Fall zuordnen"
+  "A case X will be created": "Neuen Fall „<%= kase %>“ wird angelegt."
+  "create case": "Fall anlegen"
 
   # personal settings
   "Settings": "Einstellungen"
@@ -135,11 +138,11 @@ i18n.de =
 
   # cases
   "enter a new todo": "Hier neues Todo anlegen"
-  "Enter a case title": "Hier Titel für Ticket eingeben"
+  "Enter a case title": "Hier Titel für Fall eingeben"
   "Enter a description (optional)": "Hier Beschreibung eingeben (optional)"  
   
-  "Case": "Ticket"
-  "Cases": "Tickets"
+  "Case": "Fall"
+  "Cases": "Fälle"
   "All": "Alle"
   "case:open": "Offen"
   "case:closed": "Erledigt"
@@ -147,10 +150,10 @@ i18n.de =
   "Newest": "Neueste"
   "Most messages": "Anzahl an Nachrichten"
   "Title": "Titel"
-  "Case Types": "Ticket-Arten"
+  "Case Types": "Kategorien"
   "Team Involved": "Team"
 
-  "Create case": "Ticket anlegen"
+  "Create case": "Fall anlegen"
 
   "Team Conversation": "Kommentar"
   "Team Conversations": "Kommentare"
