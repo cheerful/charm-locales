@@ -1,5 +1,7 @@
 i18n.de =
   # basic UI strings
+  "beta": "beta"
+  
   "open": "offen"
   "close": "geschlossen"
   "closed": "geschlossen"
@@ -122,6 +124,9 @@ i18n.de =
     (<a href=\"http://en.gravatar.com/\" target=\"_new\">Gravatar in neuem Fenster öffnen</a>)."
   "Your profile picture is not visible to customers.":
     "Für Kunden ist Ihr Bild/Avatar nicht sichtbar."
+
+  "Language": "Sprache"
+  "select automatically": "automatisch auswählen"
 
   "Change Password": "Passwort ändern"
   "To change your password, please enter your current password and then enter the new password twice.":

@@ -1,5 +1,7 @@
 i18n.en = # set to language, e.g. "i18n.en" or "i18n['en-US']"
   # basic UI strings
+  "beta": "beta"
+  
   "open": "open"  # adjective
   "close": "close" # verb
   "closed": "closed" # adjective
@@ -122,6 +124,9 @@ i18n.en = # set to language, e.g. "i18n.en" or "i18n['en-US']"
       <a href=\"http://en.gravatar.com/\" target=\"_new\">hop over to Gravatar</a>."
   "Your profile picture is not visible to customers.":
     "Your profile picture is not visible to customers."
+    
+  "Language": "Language"
+  "select automatically": "select automatically"
 
   "Change Password": "Change Password"
   "To change your password, please enter your current password and then enter the new password twice.":
