@@ -69,3 +69,8 @@ en: # set to language, e.g. "en" or "en-US"
     "Please check if you've mistyped the address. You can double-check the URL in your sign up email."
   If you need help logging in:
     "If you need help logging in, please <a %{link}>drop us a note</a>."
+    
+  # disabled
+  Disabled account: "Disabled account"
+  This account has been disabled: "This account has been disabled"
+  Please contact the account owner if you think this is in error: "Please contact the account owner if you think this is in error"

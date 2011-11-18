@@ -38,3 +38,40 @@ de:
   "Rewatch Intro": "Intro erneut anzeigen"
   "Manage Team & Account": "Administration & Setup"
   "Sign out": "Abmelden"
+
+  # recover password
+  could not find this email: "Unbekannte E-Mail-Addresse, Tippfehler?"
+  
+  # set password
+  Set password: "Passwort setzen" # page title
+  Welcome first_name: "Hallo, %{first_name}!"
+  To get started: "Um Charm zu verwenden, bitte ein Passwort setzen! Sie brauchen dieses Passwort und ihre E-Mail-Addresse um sich einzuloggen."
+  password (min 6 char): "Passwort (mindestens 6 Zeichen)"
+  Set Password & Sign In: "Password setzen & Einloggen" # submit button
+  Please enter a password: "Bitte geben Sie ein Passwort ein" # error message
+  Passwords do not match: "Passwörter sind nicht gleich, Tippfehler?" # error message
+  Your password has been set: "Ihr Passwort wurde gesetzt! Bitte melden Sie sich an."
+  
+  # reset password
+  Reset password: "Password zurücksetzen" # page title
+  Set new password: "Neues Passwort einstellen"
+  Please pick a new password: "Bitte ein neues Passwort eingeben."
+  new password: "Neues Passwort (mindestens 6 Zeichen)"
+  enter it again: "Erneut eingeben"
+  Set Password: "Passwort setzen" # submit button
+  Please enter a new password: "Bitte geben Sie ein neues Passwort ein" # error message
+  cancel & back to sign in: "Abbrechen & zurück zum Login"
+  Your password has been updated: "Ihr Passwort wurde gesetzt! Bitte melden Sie sich an."
+  
+  # unknown account
+  Unknown account URL: "Unbekannter Account" # page title
+  We don't recognize this account name: "Unbekannter Account"
+  Please check if you've mistyped the address:
+    "Bitte prüfen Sie ob die eingegebene URL (Internetaddresse) Tippfehler enthält. Die korrekte URL befindet sich auch in Ihrem Anmeldungs-E-Mail."
+  If you need help logging in:
+    "Falls Sie Hilfe benötigen, <a %{link}>schreiben Sie uns</a> einfach!"
+    
+  # disabled
+  Disabled account: "Gesperrter Account"
+  This account has been disabled: "Dieser Account wurde gesperrt"
+  Please contact the account owner if you think this is in error: "Für weitere Informationen setzen Sie sich bitte mit dem Account-Eigentümer in Verbindung."
