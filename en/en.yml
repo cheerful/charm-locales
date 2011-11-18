@@ -37,3 +37,35 @@ en: # set to language, e.g. "en" or "en-US"
   "Rewatch Intro": "Rewatch Intro"
   "Manage Team & Account": "Manage Team & Account"
   "Sign out": "Sign out"
+  
+  # recover password
+  could not find this email: "could not find this email"
+  
+  # set password
+  Set password: "Set password" # page title
+  Welcome first_name: "Welcome, %{first_name}!"
+  To get started: "To get started with your new Charm account, please pick a password. You'll need this and your email address to sign in."
+  password (min 6 char): "password (min 6 char)"
+  Set Password & Sign In: "Set Password & Sign In" # submit button
+  Please enter a password: "Please enter a password" # error message
+  Passwords do not match: "Passwords do not match" # error message
+  Your password has been set: "Your password has been set. Please sign in."
+  
+  # reset password
+  Reset password: "Reset password" # page title
+  Set new password: "Set new password"
+  Please pick a new password: "Please pick a new password."
+  new password: "new password"
+  enter it again: "enter it again"
+  Set Password: "Set Password" # submit button
+  Please enter a new password: "Please enter a new password" # error message
+  cancel & back to sign in: "cancel & back to sign in"
+  Your password has been updated: "Your password has been updated. Please sign in."
+  
+  # unknown account
+  Unknown account URL: "Unknown account URL" # page title
+  We don't recognize this account name: "Sorry, we don't recognize this account name (URL)."
+  Please check if you've mistyped the address:
+    "Please check if you've mistyped the address. You can double-check the URL in your sign up email."
+  If you need help logging in:
+    "If you need help logging in, please <a %{link}>drop us a note</a>."
