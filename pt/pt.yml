@@ -5,7 +5,7 @@ pt:
   terms/privacy: "termos/privacidade"
 
   # sign in
-  Sign in: "Entrar"
+  Sign in: "Login"
   Email: "Email"
   Password: "Password"
   Keep me signed in: "Manter-me ligado (a não ser que termine a sessão)"
@@ -13,7 +13,6 @@ pt:
 
   password recovery: "recuperar a password"
   back to sign in: "voltar ao ecrã de inicio de sessão"
-  
   
   Lost your password? Enter your email here and we'll send you instructions on how to enter a new one: "Perdeu a sua password? Introduza o seu email e enviaremos as instruções para escolher uma nova:"
   Recover my password: "Recuperar a minha password"
@@ -38,3 +37,43 @@ pt:
   "Rewatch Intro": "Rever introdução"
   "Manage Team & Account": "Gerir Equipa e Conta"
   "Sign out": "Terminar sessão"
+  
+  # recover password
+  could not find this email: "email não encontrado"
+  
+  # set password
+  Set password: "Escolher password" # page title
+  Welcome first_name: "Bem-vindo, %{first_name}!"
+  To get started: "Para iniciar a sua conta no Charm, escolha uma nova password. Vai precisar dela e do seu email para entrar."
+  password (min 6 char): "password (min 6 caract.)"
+  
+  
+  Set Password & Sign In: "Escolher password & Entrar" # submit button
+  Please enter a password: "Por favor introduza a password" # error message
+  Passwords do not match: "As passwords não correspondem" # error message
+  Your password has been set: "A sua password foi guardada. Por favor faça login."
+  
+  # reset password
+  Reset password: "Mudar password" # page title
+  Set new password: "Escolher nova password"
+  Please pick a new password: "Por favor escolha uma nova password."
+  new password: "nova password"
+  enter it again: "reescreva-a novamente"
+  Set Password: "Escolher Password" # submit button
+  Please enter a new password: "Por favor introduza uma nova password" # error message
+  cancel & back to sign in: "Cancelar & voltar ao login"
+  Your password has been updated: "A sua password foi modificada. Por favor faça login."
+  
+  # unknown account
+  Unknown account URL: "URL de conta desconhecido" # page title
+  We don't recognize this account name: "Desculpe, mas não reconhecemos este nome de conta (URL)."
+  Please check if you've mistyped the address:
+    "Por favor verifique se escreveu correctamente o URL. Pode verificar o URL no email de inscrição."
+  If you need help logging in:
+    "Se precisar de ajuda com o login, por favor <a %{link}>deixe-nos uma mensagem</a>."
+    
+  # disabled
+  Disabled account: "Conta desactivada"
+  This account has been disabled: "Esta conta foi desactivada"
+  Please contact the account owner if you think this is in error: "Por favor contacte o titular da conta, se achar que isto é um erro"
+  
