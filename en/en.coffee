@@ -50,7 +50,7 @@ i18n.en =
   "X weeks later": "<%= weeks %> weeks later"
   "one month later": "one month later"
   "X months later": "<%= months %> months later"
-  "more than a year later": "mote than a year later"
+  "more than a year later": "more than a year later"
    
   "All Channels": "All Channels"
   "Overview": "Overview"
