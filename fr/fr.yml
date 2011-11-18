@@ -1,4 +1,4 @@
-fr:
+fr: # set to language, e.g. "fr" or "fr-FR"
   # sign in layout
   learn about Charm: "découvrez Charm"
   get help: "obtenir de l’aide"
@@ -37,3 +37,35 @@ fr:
   "Rewatch Intro": "Revoir l’Intro"
   "Manage Team & Account": "Gérer l’Équipe et le Compte"
   "Sign out": "Déconnexion"
+  
+  # recover password
+  could not find this email: "cet e-mail est introuvable"
+  
+  # set password
+  Set password: "Changer le mot de passe" # page title
+  Welcome first_name: "Bienvenue, %{first_name} !"
+  To get started: "Pour démarrer avec votre compte Charm, choisissez un mot de passe. Vous en aurez besoin, avec votre adresse e-mail, pour vous connecter."
+  password (min 6 char): "mot de passe (min. 6 car.)"
+  Set Password & Sign In: "Définir le mot de passe & Me connecter" # submit button
+  Please enter a password: "Veuillez saisir un mot de passe" # error message
+  Passwords do not match: "La confirmation n’est pas bonne" # error message
+  Your password has been set: "Votre mot de passe a été défini.  Connectez-vous SVP."
+  
+  # reset password
+  Reset password: "Réinitialiser le mot de passe" # page title
+  Set new password: "Définir le nouveau mot de passe"
+  Please pick a new password: "Veuillez choisir un nouveau mot de passe."
+  new password: "nouveau mot de passe"
+  enter it again: "confirmez-le"
+  Set Password: "Définir le mot de passe" # submit button
+  Please enter a new password: "Veuillez entrer un nouveau mot de passe" # error message
+  cancel & back to sign in: "annuler & revenir à la connexion"
+  Your password has been updated: "Votre mot de passe a été mis à jour. Connectez-vous SVP."
+  
+  # unknown account
+  Unknown account URL: "URL de compte inconnue" # page title
+  We don't recognize this account name: "Désolés, nous ne connaissons pas ce nom de compte (URL)."
+  Please check if you've mistyped the address:
+    "Veuillez vérifier que vous n’avez pas fait une faute de frappe dans l’adresse.  Vous pouvez vérifier l’URL qui figure dans votre e-mail d’inscription."
+  If you need help logging in:
+    "Si vous avez besoin d’aide pour vous connecter, veuillez nous <a %{link}>laisser un mot</a>."
