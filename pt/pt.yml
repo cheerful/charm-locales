@@ -9,7 +9,7 @@ pt:
   Email: "Email"
   Password: "Password"
   Keep me signed in: "Manter-me ligado (a não ser que termine a sessão)"
-  Sign in to: "Entrar para %{name}"
+  Sign in to: "Login em %{name}"
 
   password recovery: "recuperar a password"
   back to sign in: "voltar ao ecrã de inicio de sessão"
