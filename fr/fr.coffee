@@ -1,18 +1,20 @@
-i18n.fr =
+i18n.fr = # set to language, e.g. "i18n.fr" or "i18n['fr-FR']"
   # basic UI strings
-  "open": "ouvrir"
-  "close": "fermer"
+  "open": "ouvert" # adjective
+  "close": "fermer" # verb
+  "closed": "fermé" # adjective
   
   "Loading...": "Chargement…"
-  "Open": "Ouvrir"
-  "Close": "Fermer"
-  "Cancel": "Annuler"
-  "Edit": "Modifier"
-  "Pin": "Épingler"
-  "Unpin": "Détacher"
-  "Poke!": "Rappeler !"
+  "Open": "Ouvrir" # verb
+  "Close": "Fermer" # verb
+  "Cancel": "Annuler" # verb
+  "Cancel Edit": "Annuler la modification" # verb
+  "Edit": "Modifier" # verb
+  "Pin": "Épingler" # verb
+  "Unpin": "Détacher" # verb
+  "Poke!": "Rappeler !" # verb
   "no assignee": "personne"
-  "Save": "Enregistrer"
+  "Save": "Enregistrer" # verb
 
   "offline": "hors-ligne"
 
@@ -53,8 +55,8 @@ i18n.fr =
   "Overview": "Survol"
 
   # Messages
-  "reply": "réponse"
-  "archived": "archivé"
+  "reply": "réponse" # noun
+  "archived": "archivé" # adjective
 
   # Process view
   "Most recent": "Date de réception"
@@ -64,7 +66,7 @@ i18n.fr =
 
   # Conversation view
   "raw source": "source brut"
-  "on": "sur"
+  "on": "sur" # Safari _on_ OS X
 
   "show quoted text line": "afficher <%= count %> ligne citée"
   "hide quoted text line": "masquer <%= count %> ligne citée"
@@ -74,37 +76,37 @@ i18n.fr =
   "empty message": "Ce message semble vide.  Vous pouvez utiliser « source brut » ci-dessus pour inspecter l’e-mail original, avant analyse.  N’hésitez pas à nous informer lorsque des e-mails ne sont pas bien analysés ou affichés—utilisez le bouton de Feedback et fournissez un maximum de détails !"
 
   # triage
-  "Praise": "Compliment"
-  "Bug": "Bug"
-  "Feature": "Fonctionnalité"
-  "Question": "Question"
+  "Praise": "Compliment" # noun
+  "Bug": "Bug" # noun
+  "Feature": "Fonctionnalité" # noun
+  "Question": "Question" # noun
   
-  "ignore & archive": "ignorer & archiver"
-  "unarchive": "désarchiver"
+  "ignore & archive": "ignorer & archiver" # verb
+  "unarchive": "désarchiver" # verb
   "options": "options"
   "Select or create a case": "Sélectionnez ou créez un cas"
-  "actionate": "agir"
+  "actionate": "agir" # verb
   "Enter a reply to send to this customer": "Entrez une réponse à envoyer à ce client"
   "Unassigned": "Non affecté"
 
   "X will be assigned": "Le message sera affecté à <%= user %>."
-  "assign": "affecter"
+  "assign": "affecter" # verb
   "User will be unassigned": "L’utilisateur ne sera plus affecté."
-  "unassign": "désaffecter"
+  "unassign": "désaffecter" # verb
   "Category will be changed": "La catégorie sera modifiée."
-  "categorize": "catégoriser"
+  "categorize": "catégoriser" # verb
   "You will send a reply and archive the message": "Vous enverrez une réponse et archiverez le message."
-  "reply + archive": "répondre + archiver"
+  "reply + archive": "répondre + archiver" # verb
   "Conversation will be assigned to case X": "La conversation sera associée au cas « <%= kase %> »."
-  "assign to case": "associer au cas"
+  "assign to case": "associer au cas" # verb
   "A case X will be created": "Un nouveau cas « <%= kase %> » sera créé."
-  "create case": "créer un cas"
+  "create case": "créer un cas" # verb
 
   # personal settings
   "Settings": "Paramètres"
   "Password": "Mot de passe"
 
-  "save & close": "enregistrer & fermer"
+  "save & close": "enregistrer & fermer" # verb
   
   "Personal Data": "Données Personnelles"
   "First name": "Prénom"
@@ -134,15 +136,15 @@ i18n.fr =
   "Your Todos": "Vos Tâches"
 
   # cases
-  "enter a new todo": "Entrer une nouvelle tâche"
-  "Enter a case title": "Entrer un titre de cas"
-  "Enter a description (optional)": "Entrez une description (optionnelle)"  
+  "enter a new todo": "Entrez une nouvelle tâche" # placeholder
+  "Enter a case title": "Entrez un titre de cas" # placeholder
+  "Enter a description (optional)": "Entrez une description (optionnelle)" # placeholder
   
   "Case": "Cas"
   "Cases": "Cas"
-  "All": "Tous"
-  "case:open": "Ouverts"
-  "case:closed": "Fermés"
+  "All": "Tous" # filter: All cases
+  "case:open": "Ouverts" # filter: Open cases
+  "case:closed": "Fermés" # filter: Closed cases
   "Sort By": "Trier par"
   "Newest": "Plus récents"
   "Most messages": "Plus de messages"
@@ -150,17 +152,17 @@ i18n.fr =
   "Case Types": "Types de Cas"
   "Team Involved": "Équipe impliquée"
 
-  "Create case": "Créer un cas"
+  "Create case": "Créer le cas" # save button
 
   "Team Conversation": "Conversation d’équipe"
   "Team Conversations": "Conversations d’équipe"
-  "Add a comment": "Ajouter un commentaire"
-  "Add Note": "Ajouter une note"
+  "Add a comment": "Ajoutez un commentaire" # placeholder
+  "Add Note": "Ajoutez une note" # placeholder
   "Actions Required": "Actions Requises"
   "Customers Affected": "Clients Affectés"
-  "Reply to All": "Répondre à Tous"
-  "Enter a reply to go to all customers": "Entrez une réponse pour tous ces clients"
-  "Send reply to all": "Envoyer la réponse à tous"
+  "Reply to All": "Répondre à Tous" # button (shows/hides form)
+  "Enter a reply to go to all customers": "Entrez une réponse pour tous ces clients" # placeholder
+  "Send reply to all": "Envoyer la réponse à tous" # button
   "Attach a file:": "Joindre un fichier :"
 
   "Message": "Message"
