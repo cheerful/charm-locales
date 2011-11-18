@@ -1,4 +1,4 @@
-i18n.en =
+i18n.en = # set to language, e.g. "i18n.en" or "i18n['en-US']"
   # basic UI strings
   "open": "open"  # adjective
   "close": "close" # verb

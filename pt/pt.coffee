@@ -1,4 +1,4 @@
-i18n.en =
+i18n.pt =
   # basic UI strings
   "open": "abrir"  # adjective
   "close": "fechar" # verb

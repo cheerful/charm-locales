@@ -1,4 +1,4 @@
-en:
+en: # set to language, e.g. "en" or "en-US"
   # sign in layout
   learn about Charm: "learn about Charm"
   get help: "get help"

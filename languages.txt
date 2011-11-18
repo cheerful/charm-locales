@@ -2,5 +2,5 @@
 en:    English
 de:    Deutsch
 de-AT: Deutsch (Österreich)
-fr:    français
-pt:    Portuguese
+fr:    Français
+pt:    Português
