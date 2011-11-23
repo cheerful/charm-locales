@@ -1,5 +1,8 @@
 i18n.pt =
   # basic UI strings
+  "beta": "beta"
+  
+  # basic UI strings
   "open": "abrir"  # adjective
   "close": "fechar" # verb
   "closed": "fechado" # adjective
